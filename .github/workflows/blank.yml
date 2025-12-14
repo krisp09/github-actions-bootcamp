@@ -3,7 +3,7 @@ name: Day-1 Hello Actions
 on:
   push:
     branches:
-      - main
+      - main1
 
 jobs:
   hello-job:
